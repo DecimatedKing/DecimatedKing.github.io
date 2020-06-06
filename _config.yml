@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: Decimated King
 logo: /assets/images/dk-logo.png
 show_downloads: true
+google_analytics: UA-30499385-1
